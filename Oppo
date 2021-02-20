@@ -12,7 +12,7 @@ In addition to normal features, such as fontification and indentation,
 and close integration with familiar Emacs functionality (for example
 syntax-based navigation like `beginning-of-defun`), go-mode comes with
 the following extra features to provide an improved experience:
-
+Oppo
 - Integration with `gofmt` by providing a command of the same name,
   and `gofmt-before-save`, which can be used in a hook to format Go
   buffers before saving them.
